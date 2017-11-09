@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{9F5A5474-73E0-4FF4-B48D-EB59009B9D4A}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Siv3D_August2016v2_1</RootNamespace>
+    <RootNamespace>puyo</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
